@@ -1,0 +1,8 @@
+guess = input("What's my favorite food? ")  #User will have to input food name
+
+if guess == "Pasta":                        #Python will compare the input with "Pasta"
+    print("Yep! So amazing!")               #Correct answer
+else:
+    print("Yuck! That’s not it!")           #Wrong answer
+
+print("Thanks for playing!")                #Always print
