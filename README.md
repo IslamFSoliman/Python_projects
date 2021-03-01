@@ -1,3 +1,3 @@
 # Python_projects
 
-Here you can find my working code of Python programs I've been working on
+Here you can find my working codes of Python programs I've been working on troughout my learning journey.
